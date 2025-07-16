@@ -1,4 +1,4 @@
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I'm+Celine;I+am+a+civil+engineer%2C;Currently+learning+skills+in+Python+%2F+Django+%2F+MySQL;Building+the+future+with+code+and+architecture)](https://git.io/typing-svg)
 ## 👋 Hi there! I'm Celine
 
 🎓 Civil engineer turned full-stack developer — passionate about integrating technology with public infrastructure.  
