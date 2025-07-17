@@ -52,7 +52,7 @@ A Django-based web application for:
 ## 📫 Get in Touch
 
 - ✉️ Email: celincecem@gmail.com  
-- 💼 [LinkedIn](https://linkedin.com/in/celine-tseng-643a61246/)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/celine-t-643a61246/?locale=en_US)  
 - 🌐 [GitHub Profile](https://github.com/CelineTzeng)
 
 
